@@ -1,2 +1,2 @@
 # calculadora
-Calculadora feita em java com window bulder
+Calculadora feita em java com window builder
